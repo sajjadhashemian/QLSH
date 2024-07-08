@@ -1,0 +1,1 @@
+We like to apply Locality-Sensitive Hashing to a set of $t$ binary strings of length $2^n$ encoded into $t\times n$ qubits using the Quantum Fourier Transform (QFT), we need to design a quantum-friendly LSH that operates on the quantum states directly.
